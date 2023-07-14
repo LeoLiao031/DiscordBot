@@ -178,4 +178,4 @@ async def cohere_classification(ctx, sentence):
     await ctx.send(classification(sentence, people))
 
 
-bot.run('MTA0OTYzMjY1NTIyODAzMTAwNw.Gg7W8-.yDSfjGkUkmBvPTSZjqfpEqRMPPBZ2csF9Bcpno')
+bot.run('')
